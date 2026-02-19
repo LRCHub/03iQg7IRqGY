@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Scale the walls",
+  "base_artist": "SorAZ",
+  "createdAt": "2026-02-19T15:16:20.199638Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Scale the walls",
+      "artist": "SorAZ",
+      "has_synced": false,
+      "path": "select/01_Scale_the_walls_SorAZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "scale the walls",
+      "artist": "soraz",
+      "has_synced": false,
+      "path": "select/02_scale_the_walls_soraz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scale the walls",
+      "artist": "SorAZ",
+      "has_synced": true,
+      "path": "select/03_Scale_the_walls_SorAZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Scale the walls",
+      "artist": "SorAZ",
+      "has_synced": false,
+      "path": "select/pl_01_Scale_the_walls_SorAZ.txt"
+    }
+  ]
+}
